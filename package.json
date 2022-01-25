@@ -1,11 +1,22 @@
 {
   "name": "node2",
   "version": "1.0.0",
-  "description": "",
   "main": "path.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarksas/NodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zarksas/NodeJs/issues"
+  },
+  "homepage": "https://github.com/zarksas/NodeJs#readme",
+  "description": "",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
 }
